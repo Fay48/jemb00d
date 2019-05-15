@@ -8,3 +8,5 @@
 5. cd jemb00d/
 6. python2 jemb00d.py
 </pre>
+<h2>License ?</h2>
+<pre>Chat me on telegram https://t.me/xfuxer_id</pre>
